@@ -1,0 +1,44 @@
+.main {
+    border: 1px solid red;
+    min-height: calc(100vh + 0px);
+    min-height: calc(100dvh + 0px);
+    position: relative;
+    overflow: hidden;
+}
+
+.tank {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+}
+
+.tank img {
+    /*border: 1px solid red;*/
+    width: 100%;
+    height: auto;
+}
+
+.arm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bullet {
+    position: absolute;
+    width: auto;
+    height: 100%;
+}
+
+.info {
+    border: 1px solid #cecece;
+    padding: 10px 16px;
+    width: fit-content;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+}
+

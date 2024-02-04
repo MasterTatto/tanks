@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tanks/static/css/main.1d0ea6a5.css",
+    "main.js": "/tanks/static/js/main.9d68baae.js",
+    "static/media/tank.png": "/tanks/static/media/tank.7e9ea3d0a702523d628a.png",
+    "index.html": "/tanks/index.html",
+    "main.1d0ea6a5.css.map": "/tanks/static/css/main.1d0ea6a5.css.map",
+    "main.9d68baae.js.map": "/tanks/static/js/main.9d68baae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0ea6a5.css",
+    "static/js/main.9d68baae.js"
+  ]
+}
